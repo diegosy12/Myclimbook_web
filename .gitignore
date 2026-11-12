@@ -64,3 +64,7 @@ playwright-report/
 # Misc
 .cache/
 .parcel-cache/
+
+# OpenCode (configuración personal del entorno de desarrollo)
+.opencode/
+opencode.jsonc

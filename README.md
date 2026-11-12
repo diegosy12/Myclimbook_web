@@ -170,10 +170,10 @@ Por definir según requisitos del centro educativo.
 
 ## Contacto
 
-- **Autor**: [Tu nombre]
-- **Email**: [Tu email]
-- **Centro**: [Nombre del centro educativo]
-- **Tutor**: [Nombre del tutor]
+- **Autor**: Diego Salinas Yañez
+- **Email**: diegosy12@educastur.es
+- **Centro**: CIFP La Laboral
+- **Tutor**: Tever
 
 ---
 
