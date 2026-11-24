@@ -68,3 +68,16 @@ playwright-report/
 # OpenCode (configuración personal del entorno de desarrollo)
 .opencode/
 opencode.jsonc
+
+# Semana 1 del curso: estas piezas SÍ se publican (reglas posteriores ganan).
+# La configuración anterior se conserva como opencode-anterior.jsonc.
+!.opencode/
+!.opencode/**
+!opencode.jsonc
+
+# Secretos adicionales exigidos por el ZIP del curso.
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/

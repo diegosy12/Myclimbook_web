@@ -1,5 +1,11 @@
 # Myclimbook - Análisis del Proyecto Android y Plan de Migración Web
 
+> **Nota 24-nov-2026:** este documento recoge el análisis inicial y una propuesta de
+> migración a SQL. La decisión vigente para el TFG es **mantener Firebase** (Auth, Firestore
+> y Storage) y añadir una API REST con Spring Boot como capa intermedia, para no trasladar
+> datos ya publicados. La comparación de alternativas y la decisión adoptada están en
+> [01-analisis.md](01-analisis.md), apartado 3.
+
 ## Resumen Ejecutivo
 
 **Myclimbook (Climbook)** es una aplicación Android nativa desarrollada en Kotlin para la gestión de contenidos de escalada, tanto en rocódromos (spraywalls) como en sectores de escalada en roca. La aplicación utiliza Firebase como backend (Authentication, Firestore, Storage) y está construida con Jetpack Compose siguiendo arquitectura MVVM.

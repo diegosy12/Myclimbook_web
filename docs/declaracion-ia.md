@@ -49,4 +49,7 @@ Para cada uso significativo de IA, registra:
 
 ---
 
+> Nota 24-nov-2026: el registro semanal exigido en H1 se lleva también en
+> [declaracion-uso-ia.md](declaracion-uso-ia.md).
+
 *Actualiza este documento cada vez que uses IA de forma significativa.*
