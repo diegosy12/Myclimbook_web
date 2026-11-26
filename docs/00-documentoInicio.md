@@ -2,15 +2,22 @@
 
 > **Nota.** Documento completado el 6-nov-2026. Afinar hasta el 12-nov para aprobación del tutor.
 >
+> **Proyecto que se presenta en DAW:** Myclimbook Web (evolución web de la app Android Myclimbook).
+>
 > **No escribir datos personales sensibles** (teléfono, dirección, DNI) ni correo personal.
+>
+> **Actualización 24-nov-2026:** usuario de GitHub `diegosy12`, repositorio
+> `https://github.com/diegosy12/Myclimbook_web.git`. El contacto con el centro se gestiona
+> fuera del repositorio público. La decisión vigente es mantener Firebase y añadir una API REST con Spring Boot como capa
+> intermedia; la alternativa de migrar a SQL queda como propuesta descartada en el H1.
 
 ## 1. Datos del alumno/a
 
 | | |
 |---|---|
-| **Nombre y apellidos** | Diego Salinas |
-| **Usuario de GitHub** | *pendiente - completar* |
-| **Repositorio del proyecto** | *pendiente - crear repositorio* |
+| **Alias público** | `diegosy12` |
+| **Usuario de GitHub** | `diegosy12` |
+| **Repositorio del proyecto** | `https://github.com/diegosy12/Myclimbook_web.git` |
 | **Ciclo y curso** | DAW, 2.º · curso 2026-27 |
 | **Fecha** | 2026-11-06 |
 
@@ -123,3 +130,10 @@ Espero profundizar en el desarrollo de aplicaciones web completas (fullstack) co
 **Fecha:** 
 
 **Comentarios del tutor:**
+
+### Seguimiento de la aprobación
+
+- 24-nov-2026: el proyecto sigue pendiente de la aprobación del tutor. No se ha empezado
+  la implementación de la aplicación; el trabajo actual se limita a la documentación de H1.
+  Dudas pendientes: Firebase frente a MySQL/PostgreSQL, VPS frente a PaaS y editor de
+  marcadores Canvas frente a SVG.

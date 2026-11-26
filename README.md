@@ -170,11 +170,16 @@ Por definir según requisitos del centro educativo.
 
 ## Contacto
 
-- **Autor**: Diego Salinas Yañez
-- **Email**: diegosy12@educastur.es
-- **Centro**: CIFP La Laboral
-- **Tutor**: Tever
+- **Autor**: `diegosy12` (alias público)
+- **GitHub**: [@diegosy12](https://github.com/diegosy12)
+- **Centro y tutoría**: contacto gestionado fuera del repositorio
 
 ---
+
+> **Nota 24-nov-2026:** se han añadido las piezas base de las semanas 1 y 2 del curso
+> (`.github/`, `.opencode/`, `asistenciaIA/`, `docs/registro-tutoria.md` y
+> `docs/publicacion-y-privacidad.md`). La configuración multiagente anterior se conserva
+> en `opencode-anterior.jsonc`; la vigente es `opencode.jsonc`. El uso de IA se anota en
+> [asistenciaIA/bitacora.md](asistenciaIA/bitacora.md).
 
 **Nota**: Este proyecto está en desarrollo activo como parte del TFG de DAW.
